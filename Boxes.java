@@ -1,7 +1,6 @@
 public class Boxes {
     public static void main(String[] args) {
 
-        
         /* ¡Nos mudamos de piso! vamos a crear un pequeño programa que nos ayude a saber en que caja pusimos las siguientes cosas:
 
         Caja 0. Libros
